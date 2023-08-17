@@ -1,0 +1,7 @@
+---
+mysql_root_password: "segni"
+app_user: "muller25"
+http_host: "myserver1"
+http_conf: "mysever1.conf"
+http_port: "80"
+disable_default: true
